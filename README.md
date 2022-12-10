@@ -6,4 +6,6 @@ Um pequeno projeto que fiz poís eu sou apaixonado por artes marciais e não pod
 
 * Ainda está em desenvolvimento !
 
+Clique [aqui](https://pablo-kennediy.github.io/MUAY-THAI/) para ir a página raiz.
+
 ![Assinatura](https://user-images.githubusercontent.com/98966014/202895623-10e47c34-a8cb-4204-84ff-da275d64760d.png)
