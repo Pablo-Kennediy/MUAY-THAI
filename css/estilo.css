@@ -3,12 +3,13 @@ body{
     background: url(https://th.bing.com/th/id/R.1a24310da370abdb42c26076606d1642?rik=kkdHwIw%2bdwJJLA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fc%2f7%2f7%2f832885-large-muay-thai-wallpaper-2018-1920x1080.jpg&ehk=6M%2bzSqoL8WNTvJFgZ%2fz%2bMI6HljX7BwWPBOLwHHY6G3o%3d&risl=&pid=ImgRaw&r=0);
     background-size: cover;
 }
+div.interface{
+    display: block;
+}
 iframe{
     float: right;
-    width: 100%;
+    width: 800px;
     height: 400px;
-    max-width: 800px;
-    max-height: 400px;
 }
 section.firstSection{
     color: white;
@@ -18,7 +19,6 @@ section.firstSection{
 }
 aside{
     display: block;
-    color: white;
     float: left;
     margin: auto;
 }
@@ -33,6 +33,7 @@ footer{
     font-family: cursive;
     border-top: 1px solid #606060;
     color: blueviolet;
+    clear: both;
 }
 footer p{
     text-align: center;
