@@ -1,0 +1,31 @@
+@charset "UTF-8";
+body{
+    color: white;
+}
+article{
+    display: block;
+    margin-bottom: 800px;
+}
+article p{
+    border: 2px white solid;
+    border: 1px blue;
+    box-sizing: 1 px 1 px 1 px rgb(0, 0, 0);
+    max-width: 100%;
+    max-height: 100%;
+    justify-content: baseline;
+}
+.flex-container{
+    display: flex;
+}
+.flex-container p{
+    margin: 10px;
+    font-size: 20px;
+}
+figure.fotoArt img{
+    display: block;
+    float: left;
+    border: 2px white solid;
+    box-sizing: 1px 1px 4px rgb(0, 0, 0);
+    width: 300px;
+    height: 300px;
+}
